@@ -1,0 +1,114 @@
+2023-12-15 12:32:38.920 [info] [gitExtensionService] Initializing Git extension service.
+2023-12-15 12:32:38.920 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2023-12-15 12:32:38.920 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2023-12-15 12:32:38.920 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2023-12-15 12:32:39.234 [info] [auth] Logged in as ikbalarslann
+2023-12-15 12:32:44.736 [info] [chat] copilot token chat_enabled: true
+2023-12-15 12:32:44.736 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2023-12-15 12:32:44.736 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2023-12-15 12:32:44.736 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 12:32:44.742 [info] [auth] Logged in as ikbalarslann
+2023-12-15 12:32:44.743 [info] [chat] copilot token chat_enabled: true
+2023-12-15 12:32:44.743 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 12:57:44.748 [info] [auth] Logged in as ikbalarslann
+2023-12-15 12:57:45.287 [info] [chat] copilot token chat_enabled: true
+2023-12-15 12:57:45.287 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 13:22:45.311 [info] [auth] Logged in as ikbalarslann
+2023-12-15 13:22:45.800 [info] [chat] copilot token chat_enabled: true
+2023-12-15 13:22:45.800 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 13:47:45.801 [info] [auth] Logged in as ikbalarslann
+2023-12-15 13:47:46.384 [info] [chat] copilot token chat_enabled: true
+2023-12-15 13:47:46.384 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 14:12:46.386 [info] [auth] Logged in as ikbalarslann
+2023-12-15 14:12:46.937 [info] [chat] copilot token chat_enabled: true
+2023-12-15 14:12:46.937 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 14:37:46.938 [info] [auth] Logged in as ikbalarslann
+2023-12-15 14:37:47.485 [info] [chat] copilot token chat_enabled: true
+2023-12-15 14:37:47.485 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 15:02:47.487 [info] [auth] Logged in as ikbalarslann
+2023-12-15 15:02:48.171 [info] [chat] copilot token chat_enabled: true
+2023-12-15 15:02:48.171 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 15:27:48.177 [info] [auth] Logged in as ikbalarslann
+2023-12-15 15:27:48.630 [info] [chat] copilot token chat_enabled: true
+2023-12-15 15:27:48.631 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 15:52:48.635 [info] [auth] Logged in as ikbalarslann
+2023-12-15 15:52:49.195 [info] [chat] copilot token chat_enabled: true
+2023-12-15 15:52:49.195 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 16:17:49.199 [info] [auth] Logged in as ikbalarslann
+2023-12-15 16:17:50.725 [info] [chat] copilot token chat_enabled: true
+2023-12-15 16:17:50.725 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 16:42:50.729 [info] [auth] Logged in as ikbalarslann
+2023-12-15 16:42:51.267 [info] [chat] copilot token chat_enabled: true
+2023-12-15 16:42:51.267 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 17:07:51.271 [info] [auth] Logged in as ikbalarslann
+2023-12-15 17:07:51.854 [info] [chat] copilot token chat_enabled: true
+2023-12-15 17:07:51.854 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 17:32:51.858 [info] [auth] Logged in as ikbalarslann
+2023-12-15 17:32:52.374 [info] [chat] copilot token chat_enabled: true
+2023-12-15 17:32:52.374 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 17:57:52.378 [info] [auth] Logged in as ikbalarslann
+2023-12-15 17:57:52.890 [info] [chat] copilot token chat_enabled: true
+2023-12-15 17:57:52.890 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 18:22:52.894 [info] [auth] Logged in as ikbalarslann
+2023-12-15 18:22:53.349 [info] [chat] copilot token chat_enabled: true
+2023-12-15 18:22:53.349 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 18:47:53.355 [info] [auth] Logged in as ikbalarslann
+2023-12-15 18:47:53.948 [info] [chat] copilot token chat_enabled: true
+2023-12-15 18:47:53.948 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 19:12:53.953 [info] [auth] Logged in as ikbalarslann
+2023-12-15 19:12:54.501 [info] [chat] copilot token chat_enabled: true
+2023-12-15 19:12:54.501 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 19:37:54.506 [info] [auth] Logged in as ikbalarslann
+2023-12-15 19:37:55.047 [info] [chat] copilot token chat_enabled: true
+2023-12-15 19:37:55.047 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 20:02:55.053 [info] [auth] Logged in as ikbalarslann
+2023-12-15 20:02:55.576 [info] [chat] copilot token chat_enabled: true
+2023-12-15 20:02:55.576 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 20:27:55.582 [info] [auth] Logged in as ikbalarslann
+2023-12-15 20:27:56.209 [info] [chat] copilot token chat_enabled: true
+2023-12-15 20:27:56.209 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 20:52:56.215 [info] [auth] Logged in as ikbalarslann
+2023-12-15 20:52:56.802 [info] [chat] copilot token chat_enabled: true
+2023-12-15 20:52:56.802 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 21:17:56.807 [info] [auth] Logged in as ikbalarslann
+2023-12-15 21:17:57.518 [info] [chat] copilot token chat_enabled: true
+2023-12-15 21:17:57.518 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 21:42:57.523 [info] [auth] Logged in as ikbalarslann
+2023-12-15 21:42:58.043 [info] [chat] copilot token chat_enabled: true
+2023-12-15 21:42:58.044 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 22:07:58.049 [info] [auth] Logged in as ikbalarslann
+2023-12-15 22:07:58.671 [info] [chat] copilot token chat_enabled: true
+2023-12-15 22:07:58.671 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 22:32:58.677 [info] [auth] Logged in as ikbalarslann
+2023-12-15 22:32:59.274 [info] [chat] copilot token chat_enabled: true
+2023-12-15 22:32:59.274 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 22:57:59.279 [info] [auth] Logged in as ikbalarslann
+2023-12-15 22:57:59.770 [info] [chat] copilot token chat_enabled: true
+2023-12-15 22:57:59.770 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 23:22:59.776 [info] [auth] Logged in as ikbalarslann
+2023-12-15 23:23:00.258 [info] [chat] copilot token chat_enabled: true
+2023-12-15 23:23:00.258 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-15 23:48:00.262 [info] [auth] Logged in as ikbalarslann
+2023-12-15 23:48:00.709 [info] [chat] copilot token chat_enabled: true
+2023-12-15 23:48:00.709 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-16 00:13:00.713 [info] [auth] Logged in as ikbalarslann
+2023-12-16 00:13:01.318 [info] [chat] copilot token chat_enabled: true
+2023-12-16 00:13:01.318 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-16 00:38:01.321 [info] [auth] Logged in as ikbalarslann
+2023-12-16 00:38:01.765 [info] [chat] copilot token chat_enabled: true
+2023-12-16 00:38:01.765 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-16 01:03:01.771 [info] [auth] Logged in as ikbalarslann
+2023-12-16 01:03:04.329 [info] [chat] copilot token chat_enabled: true
+2023-12-16 01:03:04.329 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-16 01:28:04.332 [info] [auth] Logged in as ikbalarslann
+2023-12-16 01:28:04.862 [info] [chat] copilot token chat_enabled: true
+2023-12-16 01:28:04.862 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-16 01:53:04.866 [info] [auth] Logged in as ikbalarslann
+2023-12-16 01:53:05.358 [info] [chat] copilot token chat_enabled: true
+2023-12-16 01:53:05.358 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-16 02:18:05.360 [info] [auth] Logged in as ikbalarslann
+2023-12-16 02:18:05.840 [info] [chat] copilot token chat_enabled: true
+2023-12-16 02:18:05.840 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-16 02:43:05.842 [info] [auth] Logged in as ikbalarslann
+2023-12-16 02:43:06.360 [info] [chat] copilot token chat_enabled: true
+2023-12-16 02:43:06.360 [info] [auth] Got Copilot token for ikbalarslann

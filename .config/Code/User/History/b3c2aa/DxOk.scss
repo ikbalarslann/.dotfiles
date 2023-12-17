@@ -1,0 +1,56 @@
+@import "./colors";
+@import "./fonts";
+
+/* add border box sizing to the page */
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* using the above variables and the HTML specified above, write CSS to style headings, text, links, images, figures, etc. */
+
+body {
+  font-family: var($sans);
+  line-height: 1.5;
+  background-color: var($blue);
+  color: var(--white);
+  font-size: var(--base-size);
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+.h1,
+.h2,
+.h3 {
+  font-family: var(--decorative);
+  font-weight: 400;
+  margin: 0;
+}
+
+h1,
+.h1 {
+  font-size: var(--h1);
+  line-height: 1;
+  margin-bottom: var(--h2);
+}
+
+h2,
+.h2 {
+  font-size: var(--h2);
+  line-height: 1.1;
+  margin-bottom: var(--h3);
+}
+
+h3,
+.h3 {
+  font-size: var(--h3);
+  line-height: 1.2;
+  margin-bottom: var(--h4);
+}

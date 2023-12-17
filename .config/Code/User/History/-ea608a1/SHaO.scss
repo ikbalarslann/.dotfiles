@@ -1,0 +1,30 @@
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  width: 20rem;
+  //background-color: white;
+}
+
+.date-picker-input {
+  border: none;
+  background-color: #ffffff00;
+  padding: 0.5rem;
+  width: 17.5rem;
+  outline: none;
+}
+
+.day-picker-container {
+  position: absolute;
+  border: 2px solid #a0a0a0;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 0;
+  width: 19rem;
+  left: -1rem;
+  top: 1.4rem;
+}

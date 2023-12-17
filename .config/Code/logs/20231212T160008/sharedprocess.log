@@ -1,0 +1,14 @@
+2023-12-12 16:06:41.482 [info] Getting Manifest... ritwickdey.liveserver
+2023-12-12 16:06:41.491 [info] Installing extension: ritwickdey.liveserver
+2023-12-12 16:06:49.158 [info] Extension signature is verified: ritwickdey.liveserver
+2023-12-12 16:06:50.184 [info] Extracted extension to file:///home/ikbal/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-12-12 16:06:50.207 [info] Renamed to /home/ikbal/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-12-12 16:06:50.208 [info] Extracting extension completed. ritwickdey.liveserver
+2023-12-12 16:06:50.221 [info] Extension installed successfully: ritwickdey.liveserver
+2023-12-12 16:06:50.291 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ikbal/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ikbal/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/147/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/snap/code/147/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/snap/code/147/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/snap/code/147/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/snap/code/147/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/snap/code/147/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

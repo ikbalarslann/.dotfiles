@@ -1,0 +1,6 @@
+2023/12/06-11:22:53.728 1b87 Creating DB /home/ikbal/.config/opera/Default/IndexedDB/https_sprig.figma.com_0.indexeddb.leveldb since it was missing.
+2023/12/06-11:22:53.744 1b87 Reusing MANIFEST /home/ikbal/.config/opera/Default/IndexedDB/https_sprig.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/06-13:23:37.768 1b87 Level-0 table #5: started
+2023/12/06-13:23:37.775 1b87 Level-0 table #5: 3118 bytes OK
+2023/12/06-13:23:37.782 1b87 Delete type=0 #3
+2023/12/06-13:23:37.783 1b87 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

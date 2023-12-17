@@ -1,0 +1,363 @@
+2023-12-13 12:27:55.844 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-13 12:27:56.091 [info] Started local extension host with pid 3660.
+2023-12-13 12:27:58.823 [info] [perf] Render performance baseline is 31ms
+2023-12-13 13:06:35.347 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:06:38.627 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:06:40.945 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:06:45.856 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:06:47.556 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:06:50.960 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:06:52.563 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:09:21.347 [error] Unable to read file '/home/ikbal/repos/resortApp/frontend/src/components/styleguide/buttons/shopping card/shopping-card.scss' (Error: Unable to resolve nonexistent file '/home/ikbal/repos/resortApp/frontend/src/components/styleguide/buttons/shopping card/shopping-card.scss'): Error: Unable to read file '/home/ikbal/repos/resortApp/frontend/src/components/styleguide/buttons/shopping card/shopping-card.scss' (Error: Unable to resolve nonexistent file '/home/ikbal/repos/resortApp/frontend/src/components/styleguide/buttons/shopping card/shopping-card.scss')
+    at n.F (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18891)
+    at n.D (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18686)
+    at async b.M (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42874)
+    at async b.readStream (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42628)
+    at async P.Cb (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:6445)
+    at async P.resolve (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:4892)
+    at async s.W (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:39017)
+    at async f.r (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:18530)
+    at async y.acquire (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:3392)
+    at async d.createModelReference (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:20107)
+2023-12-13 13:09:21.723 [error] Error: The editor could not be opened because the file was not found.
+    at M.fc (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2148:25082)
+    at async M.setInput (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2148:24168)
+    at async b.S (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2146:23046)
+    at async b.L (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2146:21637)
+    at async b.openEditor (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2146:20603)
+    at async vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2275:23005
+    at async v.M (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1184:80268)
+    at async v.openCodeEditor (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:720:4538)
+    at async N.m (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:765:56908)
+    at async N.l (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:765:56696)
+2023-12-13 13:09:39.081 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:09:45.962 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:09:47.729 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:09:48.757 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:09:50.629 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:09:52.212 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 13:09:53.634 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 14:47:37.066 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 14:47:38.435 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 14:47:40.214 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 14:47:41.233 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 14:47:43.295 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 14:50:31.137 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 14:50:32.232 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 14:50:33.602 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:00:13.683 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:00:15.517 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:00:18.659 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:00:21.352 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:04:13.825 [error] <semantic> TypeScript Server Error (5.3.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175375:11)
+    at ScriptInfo.getDefaultProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176121:23)
+    at _ProjectService.doEnsureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179441:36)
+    at _ProjectService.ensureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179436:75)
+    at IpcIOSession.getFileAndProjectWorker (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184435:77)
+    at IpcIOSession.getFileAndProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184421:17)
+    at IpcIOSession.getApplicableRefactors (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184984:36)
+    at getApplicableRefactors (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183219:43)
+    at /snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:69
+    at IpcIOSession.executeWithRequestId (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185369:14)
+    at IpcIOSession.executeCommand (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:29)
+    at IpcIOSession.onMessage (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185419:51)
+    at process.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187001:14)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21): Error: <semantic> TypeScript Server Error (5.3.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175375:11)
+    at ScriptInfo.getDefaultProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176121:23)
+    at _ProjectService.doEnsureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179441:36)
+    at _ProjectService.ensureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179436:75)
+    at IpcIOSession.getFileAndProjectWorker (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184435:77)
+    at IpcIOSession.getFileAndProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184421:17)
+    at IpcIOSession.getApplicableRefactors (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184984:36)
+    at getApplicableRefactors (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183219:43)
+    at /snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:69
+    at IpcIOSession.executeWithRequestId (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185369:14)
+    at IpcIOSession.executeCommand (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:29)
+    at IpcIOSession.onMessage (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185419:51)
+    at process.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187001:14)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Function.create (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:474656)
+    at v.w (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469981)
+    at v.u (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469064)
+    at ChildProcess.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:468696)
+    at ChildProcess.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-12-13 15:04:13.966 [error] <semantic> TypeScript Server Error (5.3.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175375:11)
+    at ScriptInfo.getDefaultProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176121:23)
+    at _ProjectService.doEnsureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179441:36)
+    at _ProjectService.ensureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179436:75)
+    at IpcIOSession.getFileAndProjectWorker (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184435:77)
+    at IpcIOSession.getFileAndProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184421:17)
+    at IpcIOSession.getEncodedSemanticClassifications (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183733:36)
+    at encodedSemanticClassifications-full (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183038:43)
+    at /snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:69
+    at IpcIOSession.executeWithRequestId (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185369:14)
+    at IpcIOSession.executeCommand (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:29)
+    at IpcIOSession.onMessage (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185419:51)
+    at process.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187001:14)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21): Error: <semantic> TypeScript Server Error (5.3.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175375:11)
+    at ScriptInfo.getDefaultProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176121:23)
+    at _ProjectService.doEnsureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179441:36)
+    at _ProjectService.ensureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179436:75)
+    at IpcIOSession.getFileAndProjectWorker (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184435:77)
+    at IpcIOSession.getFileAndProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184421:17)
+    at IpcIOSession.getEncodedSemanticClassifications (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183733:36)
+    at encodedSemanticClassifications-full (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183038:43)
+    at /snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:69
+    at IpcIOSession.executeWithRequestId (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185369:14)
+    at IpcIOSession.executeCommand (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:29)
+    at IpcIOSession.onMessage (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185419:51)
+    at process.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187001:14)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Function.create (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:474656)
+    at v.w (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469981)
+    at v.u (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469064)
+    at ChildProcess.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:468696)
+    at ChildProcess.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-12-13 15:04:47.445 [error] Unable to read file '/home/ikbal/repos/resortApp/frontend/src/components/styleguide/buttons/wishlist/wishlist.scss' (Error: Unable to resolve nonexistent file '/home/ikbal/repos/resortApp/frontend/src/components/styleguide/buttons/wishlist/wishlist.scss'): Error: Unable to read file '/home/ikbal/repos/resortApp/frontend/src/components/styleguide/buttons/wishlist/wishlist.scss' (Error: Unable to resolve nonexistent file '/home/ikbal/repos/resortApp/frontend/src/components/styleguide/buttons/wishlist/wishlist.scss')
+    at n.F (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18891)
+    at n.D (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18686)
+    at async b.M (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42874)
+    at async b.readStream (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42628)
+    at async P.Cb (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:6445)
+    at async P.resolve (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:4892)
+    at async s.W (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:39017)
+    at async f.r (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:18530)
+    at async y.acquire (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:3392)
+    at async d.createModelReference (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:20107)
+2023-12-13 15:04:48.318 [error] Error: The editor could not be opened because the file was not found.
+    at M.fc (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2148:25082)
+    at async M.setInput (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2148:24168)
+    at async b.S (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2146:23046)
+    at async b.L (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2146:21637)
+    at async b.openEditor (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2146:20603)
+    at async vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2275:23005
+    at async v.M (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1184:80268)
+    at async v.openCodeEditor (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:720:4538)
+    at async N.m (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:765:56908)
+    at async N.l (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:765:56696)
+2023-12-13 15:06:43.299 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:06:44.526 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:06:45.621 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:06:46.898 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:25:46.273 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:25:47.371 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:25:48.852 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:25:51.522 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:25:53.014 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:25:54.202 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:28:44.132 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:28:49.574 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:28:52.507 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:29:18.267 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:29:20.264 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:29:21.845 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:29:22.900 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:29:24.280 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:29:25.628 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:59:14.972 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:59:16.886 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:59:18.669 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:59:20.228 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:59:26.785 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:59:28.459 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 15:59:30.067 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 16:47:45.138 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 16:47:46.770 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 16:54:28.866 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 16:54:30.435 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2023-12-13 16:54:31.896 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/snap/code/147/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)

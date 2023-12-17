@@ -1,0 +1,28 @@
+.location-date-search {
+  border: 1px solid #e5e5e5;
+  //margin: 9rem;
+  width: 90vw;
+  display: flex;
+  justify-content: flex-start;
+
+  // & > div {
+  //   width: 15rem;
+  //   height: 3rem;
+  //   color: wheat;
+  //   background-color: black;
+  //   border: 1px solid #e5e5e5;
+  // }
+  & .hr {
+    background-color: gray;
+    width: 0.2rem;
+    height: 3rem;
+    margin-right: 0.4rem;
+  }
+  &__search-button {
+    background-color: rgb(0, 81, 87);
+    width: 7rem;
+    border-radius: 1rem;
+    border: none;
+    margin: 0.1rem 0.3rem 0.1rem 0.2rem;
+  }
+}

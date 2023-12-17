@@ -1,0 +1,19 @@
+@import "../colors";
+@import "../fonts";
+
+.shopping-card {
+  color: $black;
+  position: relative;
+  width: 2.2rem;
+  border: 1px solid $black;
+
+  &__counter {
+    color: red;
+    z-index: 1;
+    position: absolute;
+    top: -1;
+    right: 0;
+    background-color: blue;
+    border-radius: 3rem;
+  }
+}

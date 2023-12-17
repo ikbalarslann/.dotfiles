@@ -1,0 +1,36 @@
+.location {
+  margin: 0;
+
+  &-input-container {
+    width: 14rem;
+    border: 1px solid #e0e0e0; // Uncomment if needed
+  }
+
+  &-input {
+    border: none;
+    outline: none;
+    width: 12.8rem;
+    background-color: rgba(224, 224, 224, 0); // Adjusted color
+  }
+
+  &-suggestions {
+    border: 1px solid #e0e0e0;
+    border-radius: 0.3rem;
+    margin-top: 0.4rem;
+    //padding: 0.4rem 0.3rem; // Uncomment if needed
+    width: 14rem;
+
+    & > div {
+      &:first-child {
+        padding: 0;
+        padding-top: 0.3rem;
+        padding-left: 0.1rem;
+      }
+
+      padding: 0.1rem 1rem;
+      &:hover {
+        background-color: #e0e0e0;
+      }
+    }
+  }
+}

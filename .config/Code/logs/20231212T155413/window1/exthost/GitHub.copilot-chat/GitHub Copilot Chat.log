@@ -1,0 +1,14 @@
+2023-12-12 15:54:40.908 [info] [gitExtensionService] Initializing Git extension service.
+2023-12-12 15:54:40.908 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2023-12-12 15:54:40.908 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2023-12-12 15:54:40.908 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2023-12-12 15:54:41.266 [info] [auth] GitHub login failed
+2023-12-12 15:54:41.267 [info] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
+2023-12-12 15:55:20.329 [info] [auth] Logged in as ikbalarslann
+2023-12-12 15:55:20.899 [info] [chat] copilot token chat_enabled: true
+2023-12-12 15:55:20.899 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2023-12-12 15:55:20.899 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2023-12-12 15:55:20.899 [info] [auth] Got Copilot token for ikbalarslann
+2023-12-12 15:55:20.910 [info] [auth] Logged in as ikbalarslann
+2023-12-12 15:55:20.911 [info] [chat] copilot token chat_enabled: true
+2023-12-12 15:55:20.911 [info] [auth] Got Copilot token for ikbalarslann

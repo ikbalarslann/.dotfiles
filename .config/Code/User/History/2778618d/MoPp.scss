@@ -1,0 +1,31 @@
+/* font weights */
+$decorative: "Montserrat", sans-serif;
+$sans: "Open Sans", sans-serif;
+
+/* font scale */
+$base-size: 1.3rem;
+$scale: 1.2;
+
+/* sizes */
+$h6: $base-size;
+$h5: calc(#{$h6} * #{$scale});
+$h4: calc(#{$h5} * #{$scale});
+$h3: calc(#{$h4} * #{$scale});
+$h2: calc(#{$h3} * #{$scale});
+$h1: calc(#{$h2} * #{$scale});
+$large: calc(#{$base-size} * #{$scale});
+$xl: calc(#{$large} * #{$scale});
+$small: calc(#{$h6} / #{$scale});
+$xs: calc(#{$small} / #{$scale});
+
+//radius
+$radius: 0.6rem;
+$radius-sm: 0.3rem;
+$radius-lg: 1rem;
+$radius-xl: 1.5rem;
+
+//font weights
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;

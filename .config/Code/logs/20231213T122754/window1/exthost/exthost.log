@@ -1,0 +1,126 @@
+2023-12-13 12:27:56.293 [info] Extension host with pid 3660 started
+2023-12-13 12:27:56.293 [info] Skipping acquiring lock for /home/ikbal/.config/Code/User/workspaceStorage/d94cab774f009908fcba574405c6524e.
+2023-12-13 12:27:56.339 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-13 12:27:56.345 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+2023-12-13 12:27:56.535 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-13 12:27:56.536 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-12-13 12:27:56.555 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-13 12:27:56.572 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-13 12:27:56.651 [info] Eager extensions activated
+2023-12-13 12:27:56.678 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 12:27:56.680 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 12:27:56.686 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 12:27:56.731 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 12:27:56.778 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 12:27:56.817 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-12-13 12:27:57.187 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-13 12:28:17.917 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2023-12-13 12:30:10.336 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+2023-12-13 13:11:30.477 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-12-13 15:04:13.812 [error] [vscode.typescript-language-features] provider FAILED
+2023-12-13 15:04:13.813 [error] Error: <semantic> TypeScript Server Error (5.3.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175375:11)
+    at ScriptInfo.getDefaultProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176121:23)
+    at _ProjectService.doEnsureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179441:36)
+    at _ProjectService.ensureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179436:75)
+    at IpcIOSession.getFileAndProjectWorker (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184435:77)
+    at IpcIOSession.getFileAndProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184421:17)
+    at IpcIOSession.getApplicableRefactors (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184984:36)
+    at getApplicableRefactors (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183219:43)
+    at /snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:69
+    at IpcIOSession.executeWithRequestId (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185369:14)
+    at IpcIOSession.executeCommand (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:29)
+    at IpcIOSession.onMessage (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185419:51)
+    at process.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187001:14)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Function.create (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:474656)
+    at v.w (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469981)
+    at v.u (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469064)
+    at ChildProcess.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:468696)
+    at ChildProcess.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-12-13 15:04:13.964 [error] [vscode.typescript-language-features] provider FAILED
+2023-12-13 15:04:13.964 [error] Error: <semantic> TypeScript Server Error (5.3.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175375:11)
+    at ScriptInfo.getDefaultProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176121:23)
+    at _ProjectService.doEnsureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179441:36)
+    at _ProjectService.ensureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179436:75)
+    at IpcIOSession.getFileAndProjectWorker (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184435:77)
+    at IpcIOSession.getFileAndProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184421:17)
+    at IpcIOSession.getEncodedSemanticClassifications (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183733:36)
+    at encodedSemanticClassifications-full (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183038:43)
+    at /snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:69
+    at IpcIOSession.executeWithRequestId (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185369:14)
+    at IpcIOSession.executeCommand (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:29)
+    at IpcIOSession.onMessage (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185419:51)
+    at process.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187001:14)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Function.create (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:474656)
+    at v.w (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469981)
+    at v.u (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469064)
+    at ChildProcess.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:468696)
+    at ChildProcess.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-12-13 15:04:14.814 [error] Error: <semantic> TypeScript Server Error (5.3.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175375:11)
+    at ScriptInfo.getDefaultProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176121:23)
+    at _ProjectService.doEnsureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179441:36)
+    at _ProjectService.ensureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179436:75)
+    at IpcIOSession.getFileAndProjectWorker (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184435:77)
+    at IpcIOSession.getProjectInfoWorker (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184237:30)
+    at IpcIOSession.getProjectInfo (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184228:17)
+    at projectInfo (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183172:43)
+    at /snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:69
+    at IpcIOSession.executeWithRequestId (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185369:14)
+    at IpcIOSession.executeCommand (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:29)
+    at IpcIOSession.onMessage (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185419:51)
+    at process.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187001:14)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Function.create (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:474656)
+    at v.w (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469981)
+    at v.u (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469064)
+    at ChildProcess.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:468696)
+    at ChildProcess.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-12-13 15:04:14.966 [error] Error: <semantic> TypeScript Server Error (5.3.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175375:11)
+    at ScriptInfo.getDefaultProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176121:23)
+    at _ProjectService.doEnsureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179441:36)
+    at _ProjectService.ensureDefaultProjectForFile (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179436:75)
+    at IpcIOSession.getFileAndProjectWorker (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184435:77)
+    at IpcIOSession.getFileAndProject (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:184421:17)
+    at IpcIOSession.getEncodedSemanticClassifications (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183733:36)
+    at encodedSemanticClassifications-full (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:183038:43)
+    at /snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:69
+    at IpcIOSession.executeWithRequestId (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185369:14)
+    at IpcIOSession.executeCommand (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185377:29)
+    at IpcIOSession.onMessage (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185419:51)
+    at process.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187001:14)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Function.create (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:474656)
+    at v.w (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469981)
+    at v.u (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:469064)
+    at ChildProcess.<anonymous> (/snap/code/147/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:2:468696)
+    at ChildProcess.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-12-13 16:50:39.223 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

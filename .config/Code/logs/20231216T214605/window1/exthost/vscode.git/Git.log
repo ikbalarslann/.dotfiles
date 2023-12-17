@@ -1,0 +1,75 @@
+2023-12-16 21:46:14.227 [info] Log level: Info
+2023-12-16 21:46:14.227 [info] Validating found git in: "git"
+2023-12-16 21:46:14.227 [info] Using git "2.25.1" from "git"
+2023-12-16 21:46:14.227 [info] > git rev-parse --show-toplevel [338ms]
+2023-12-16 21:46:14.227 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-12-16 21:46:14.227 [info] Open repository: /home/ikbal/repos/.dotfiles
+2023-12-16 21:46:14.228 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-16 21:46:14.228 [info] > git config --get commit.template [6ms]
+2023-12-16 21:46:14.248 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-16 21:46:14.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-12-16 21:46:14.256 [warning] ENOENT: no such file or directory, open '/home/ikbal/repos/.dotfiles/.git/refs/remotes/origin/master'
+2023-12-16 21:46:14.256 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-16 21:46:14.260 [info] > git rev-parse refs/remotes/origin/master [4ms]
+2023-12-16 21:46:14.265 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-16 21:46:14.270 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-16 21:46:14.276 [info] > git status -z -uall [12ms]
+2023-12-16 21:46:14.276 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-16 21:46:14.327 [info] > git config --get commit.template [8ms]
+2023-12-16 21:46:14.327 [info] > git rev-parse --show-toplevel [12ms]
+2023-12-16 21:46:14.336 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-16 21:46:14.340 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-12-16 21:46:14.343 [warning] ENOENT: no such file or directory, open '/home/ikbal/repos/.dotfiles/.git/refs/remotes/origin/master'
+2023-12-16 21:46:14.343 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-16 21:46:14.346 [info] > git rev-parse refs/remotes/origin/master [3ms]
+2023-12-16 21:46:14.349 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-16 21:46:14.353 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-16 21:46:14.356 [info] > git status -z -uall [7ms]
+2023-12-16 21:46:14.358 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-16 21:46:14.362 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-16 21:46:14.740 [info] > git check-ignore -v -z --stdin [3ms]
+2023-12-16 21:46:14.862 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-16 21:46:14.867 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-16 21:46:14.871 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-16 21:46:14.875 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-16 21:46:22.869 [info] > git check-ignore -v -z --stdin [1ms]
+2023-12-16 21:46:24.256 [info] > git show --textconv :awesomewm/.config/awesome/rc.lua [5ms]
+2023-12-16 21:46:24.257 [info] > git ls-files --stage -- /home/ikbal/repos/.dotfiles/awesomewm/.config/awesome/rc.lua [1ms]
+2023-12-16 21:46:24.264 [info] > git cat-file -s f65dbc493b8831440095a9d5c7ec061906f8a4a2 [1ms]
+2023-12-16 21:46:24.535 [info] > git check-ignore -v -z --stdin [2ms]
+2023-12-16 21:46:36.107 [info] > git config --get commit.template [4ms]
+2023-12-16 21:46:36.107 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-16 21:46:36.110 [warning] ENOENT: no such file or directory, open '/home/ikbal/repos/.dotfiles/.git/refs/remotes/origin/master'
+2023-12-16 21:46:36.110 [info] > git rev-parse refs/remotes/origin/master [0ms]
+2023-12-16 21:46:36.120 [info] > git status -z -uall [7ms]
+2023-12-16 21:46:36.624 [warning] Failed to get repository realpath for: "/home/ikbal/repos/.dotfiles/netflix". Error: ENOENT: no such file or directory, realpath '/home/ikbal/repos/.dotfiles/netflix'
+2023-12-16 21:46:36.647 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-16 21:46:36.657 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-16 21:46:36.667 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-16 21:46:57.595 [info] > git check-ignore -v -z --stdin [2ms]
+2023-12-16 21:46:58.533 [info] > git check-ignore -v -z --stdin [2ms]
+2023-12-16 21:46:59.045 [info] > git show --textconv :i3/.config/i3/config [5ms]
+2023-12-16 21:46:59.046 [info] > git ls-files --stage -- /home/ikbal/repos/.dotfiles/i3/.config/i3/config [0ms]
+2023-12-16 21:46:59.049 [info] > git cat-file -s f3fc28e49535b84afd87a1f1e5ca9d38c4396073 [1ms]
+2023-12-16 21:47:03.503 [info] > git check-ignore -v -z --stdin [2ms]
+2023-12-16 21:47:03.956 [info] > git show --textconv :i3/.config/i3status/config [10ms]
+2023-12-16 21:47:03.957 [info] > git ls-files --stage -- /home/ikbal/repos/.dotfiles/i3/.config/i3status/config [2ms]
+2023-12-16 21:47:03.967 [info] > git cat-file -s 063e16459f02d09540aac7f48949df9960dd94c6 [2ms]
+2023-12-16 21:47:21.557 [info] > git config --get commit.template [3ms]
+2023-12-16 21:47:21.558 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-16 21:47:21.561 [warning] ENOENT: no such file or directory, open '/home/ikbal/repos/.dotfiles/.git/refs/remotes/origin/master'
+2023-12-16 21:47:21.561 [info] > git rev-parse refs/remotes/origin/master [0ms]
+2023-12-16 21:47:21.575 [info] > git status -z -uall [8ms]
+2023-12-16 21:47:22.077 [warning] Failed to get repository realpath for: "/home/ikbal/repos/.dotfiles/netflix". Error: ENOENT: no such file or directory, realpath '/home/ikbal/repos/.dotfiles/netflix'
+2023-12-16 21:47:22.098 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-16 21:47:22.108 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-16 21:47:22.109 [warning] Failed to get repository realpath for: "/home/ikbal/repos/.dotfiles/nvim/.config/nvim". Error: ENOENT: no such file or directory, realpath '/home/ikbal/repos/.dotfiles/nvim/.config/nvim'
+2023-12-16 21:47:30.327 [info] > git config --get commit.template [4ms]
+2023-12-16 21:47:30.327 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-16 21:47:30.330 [warning] ENOENT: no such file or directory, open '/home/ikbal/repos/.dotfiles/.git/refs/remotes/origin/master'
+2023-12-16 21:47:30.331 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2023-12-16 21:47:30.341 [info] > git status -z -uall [7ms]
+2023-12-16 21:47:30.843 [warning] Failed to get repository realpath for: "/home/ikbal/repos/.dotfiles/netflix". Error: ENOENT: no such file or directory, realpath '/home/ikbal/repos/.dotfiles/netflix'
+2023-12-16 21:47:30.863 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-16 21:47:30.873 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-16 21:47:30.874 [warning] Failed to get repository realpath for: "/home/ikbal/repos/.dotfiles/nvim/.config/nvim". Error: ENOENT: no such file or directory, realpath '/home/ikbal/repos/.dotfiles/nvim/.config/nvim'

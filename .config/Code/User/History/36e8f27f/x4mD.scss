@@ -1,0 +1,13 @@
+.location {
+  margin: 6rem;
+  &-input {
+    border: none;
+    outline: none;
+  }
+  &-suggestions {
+    border: 1px solid #e0e0e0;
+    margin-top: 0.7rem;
+    padding: 1rem;
+    width: 14rem;
+  }
+}

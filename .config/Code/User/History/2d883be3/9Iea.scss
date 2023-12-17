@@ -1,0 +1,23 @@
+@import "../colors";
+@import "../fonts";
+
+.shopping-card {
+  color: $black;
+  position: relative;
+  width: 2.2rem;
+  border: 1px solid $black;
+
+  &__counter {
+    color: red;
+    font-size: $xs;
+    z-index: 1;
+    position: absolute;
+    top: -1px;
+    width: 1rem;
+    height: 1rem;
+    right: -6px;
+    background-color: blue;
+    padding: 0 6px;
+    border-radius: 8rem;
+  }
+}

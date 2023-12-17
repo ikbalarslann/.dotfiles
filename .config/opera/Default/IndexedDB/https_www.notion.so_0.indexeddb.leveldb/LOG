@@ -1,0 +1,18 @@
+2023/12/07-06:31:11.937 1ba2 Creating DB /home/ikbal/.config/opera/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb since it was missing.
+2023/12/07-06:31:11.960 1ba2 Reusing MANIFEST /home/ikbal/.config/opera/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/07-06:31:12.949 1b89 Level-0 table #5: started
+2023/12/07-06:31:12.956 1b89 Level-0 table #5: 2639 bytes OK
+2023/12/07-06:31:12.967 1b89 Delete type=0 #3
+2023/12/07-06:31:12.967 1b7c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/07-06:32:19.183 1b89 Level-0 table #7: started
+2023/12/07-06:32:19.192 1b89 Level-0 table #7: 256 bytes OK
+2023/12/07-06:32:19.202 1b89 Delete type=0 #4
+2023/12/07-06:32:19.202 1b89 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/07-06:32:19.202 1b89 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x06\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 196 : 0
+2023/12/07-06:32:19.203 1b89 Compacting 1@1 + 1@2 files
+2023/12/07-06:32:19.211 1b89 Generated table #8@1: 56 keys, 1033 bytes
+2023/12/07-06:32:19.211 1b89 Compacted 1@1 + 1@2 files => 1033 bytes
+2023/12/07-06:32:19.221 1b89 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/07-06:32:19.221 1b89 Delete type=2 #5
+2023/12/07-06:32:19.221 1b89 Delete type=2 #7
+2023/12/07-06:32:19.221 1b89 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x06\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 196 : 0 .. (end); will stop at (end)

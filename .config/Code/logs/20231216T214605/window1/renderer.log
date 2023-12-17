@@ -1,0 +1,5 @@
+2023-12-16 21:46:06.533 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-16 21:46:06.729 [info] Started local extension host with pid 37231.
+2023-12-16 21:46:09.365 [info] [perf] Render performance baseline is 20ms
+2023-12-16 21:46:14.626 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2023-12-16 21:46:14.627 [error] No registered selector for ID: copilot-chat.generateCommitMessage

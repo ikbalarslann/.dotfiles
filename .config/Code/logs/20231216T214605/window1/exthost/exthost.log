@@ -1,0 +1,14 @@
+2023-12-16 21:46:06.966 [info] Extension host with pid 37231 started
+2023-12-16 21:46:06.966 [info] Skipping acquiring lock for /home/ikbal/.config/Code/User/workspaceStorage/50067c494c8bb4d7251fac79f701121b.
+2023-12-16 21:46:06.976 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-12-16 21:46:06.980 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-16 21:46:06.992 [info] Eager extensions activated
+2023-12-16 21:46:07.015 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-16 21:46:07.017 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-16 21:46:07.021 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-12-16 21:46:13.743 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-12-16 21:46:13.777 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-12-16 21:46:13.805 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2023-12-16 21:46:13.841 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-12-16 21:46:14.192 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-16 21:46:24.048 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

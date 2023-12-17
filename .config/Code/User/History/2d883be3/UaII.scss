@@ -1,0 +1,11 @@
+@import "../colors";
+@import "../fonts";
+
+.shopping-card {
+  color: $black;
+
+  &__counter {
+    color: red;
+    z-index: ;
+  }
+}
