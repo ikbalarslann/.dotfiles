@@ -24,6 +24,10 @@ Plug 'prettier/vim-prettier', {
 
 call plug#end()
 
+let g:prettier#autoformat = 1
+let g:prettier#autoformat_require_pragma = 0
+
+packloadall
 colorscheme desert 
 
 let mapleader=" "
@@ -32,3 +36,4 @@ nnoremap <leader><CR> :so ~/.vimrc<CR>
 inoremap jk <esc>
 nnoremap<C-p> :GFiles<CR>
 nnoremap <leader>pf :Files<CR>
+autocmd InsertLeave * :Prettier
